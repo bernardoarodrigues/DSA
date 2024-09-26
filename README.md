@@ -78,9 +78,10 @@ To run the code locally:
 
 Inside the algoritms or the data structures folder, you will find the implemented code with comments about each content, such as time and space complexity.
 
-To run a specific algorithm:
+To run a specific file:
 ```bash
-python DataStructures/Tree.py
+python DataStructures/Folder/Filename.py
+python Algorithms/Folder/Filename.py
 ```
 
 ## License
